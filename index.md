@@ -25,6 +25,17 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 我们相信，从康德，伏尔泰和马克思等哲学大师的饮品选择中，我们可以洞察其对知识的追求；而对于校园里的国际友人，咖啡则是他们从小长大的日常习惯，更是一种文化的链接。我们鼓励社团成员参与到各种活动中，如哲学沙龙、咖啡品鉴与制作等，通过这些活动提高他们的实践技能，同时让他们在思考和交流中感受到中西哲学的碰撞与融合。
 
+## Our Articles / 我们的文章
+
+
+### phiosophy / 哲学部
+- [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
+
+### coffee /咖啡部
+- [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
+
+### tech / 技术部
+- [如何使用GitHub搭建并托管社团网站](tech/how_to_build_web.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 
 ## Our Activities / 我们的活动
 
