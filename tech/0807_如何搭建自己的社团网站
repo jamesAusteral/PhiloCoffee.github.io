@@ -1,0 +1,43 @@
+# 使用GitHub搭建并托管社团网站
+@ChatGPT_4
+
+2023年8月7日
+
+在现代社团组织中，有一个可访问的网站是非常重要的。它不仅提供了一个中心化的信息集散地，还增加了社团的可见度。幸运的是，使用GitHub，你可以免费搭建并托管你的社团网站。在本教程中，我们将介绍如何做到这一点。
+
+## 第一步：创建一个GitHub账户
+
+如果你还没有GitHub账户，请访问[GitHub官方网站](https://github.com)进行注册。
+
+## 第二步：创建一个新的仓库
+
+1. 登录你的GitHub账户。
+2. 点击右上角的"+"图标，然后选择“New repository”。
+3. 命名你的仓库。如果你想要创建一个组织的GitHub Pages站点，仓库名必须是`orgname.github.io`的格式。
+4. 选择“Public”并勾选“Initialize this repository with a README”。
+5. 点击“Create repository”。
+
+## 第三步：添加网站文件
+
+你现在可以将你的HTML、CSS和JavaScript文件上传到此仓库中。你可以通过直接在GitHub上编辑文件或将文件推送到此仓库来做到这一点。
+
+## 第四步：启用GitHub Pages
+
+1. 进入你的仓库并点击“Settings”。
+2. 滚动到“GitHub Pages”部分。
+3. 在“Source”下拉菜单中，选择你的主分支（例如“main”或“master”）。
+4. 点击“Save”。
+
+现在，你的网站将被托管在`https://orgname.github.io`上。
+
+## 第五步：自定义域名（可选）
+
+如果你拥有自己的域名，并希望使用它，你可以按照[GitHub的官方文档](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)设置自定义域名。
+
+## 第六步：持续改进
+
+你可以随时通过提交新的更改来更新你的网站。你还可以考虑使用像[Jekyll](https://jekyllrb.com/)这样的静态站点生成器来使内容管理更加容易。
+
+## 结语
+
+使用GitHub Pages搭建并托管你的社团网站是一个快速、简单且免费的方法。通过本教程，你应该能够创建一个基本的社团网站，将你的社团推向新的高度。不管你是一个经验丰富的开发者还是刚刚入门的新手，GitHub Pages都为你提供了一个强大的平台来展示你的社团。
