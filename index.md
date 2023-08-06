@@ -1,4 +1,5 @@
 # PhiloCoffee / 哲咖 
+![Club_icon](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/b6eaa129-51ce-4124-9586-adabb158daf9)
 
 Welcome to PhiloCoffee, where we explore the intersection of coffee and philosophy!
 
@@ -48,6 +49,7 @@ We are honored to announce that Professor SHAO KAI TSENG, a scholar with profoun
 Interested in coffee, philosophy, or both? Join us and contribute to an energetic and inclusive community!
 我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
 
+![d9d4c0b2e392b8f910d0baeef5ba68f](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/f550ea8a-a0f8-46e7-a271-df538c1f2381)
 
 The brewing process of hand-poured coffee has many similarities with tea preparation, offering us a unique perspective to integrate Chinese tea culture with Western coffee culture, showcasing the blend of Eastern and Western philosophies.
 
@@ -62,7 +64,8 @@ We maintain close collaboration with the Zhejiang University Student Coffee Club
 [Contact Us](philocoffee@gmail.com)
 
 
+![244d1bc375acecf293b88f223aff5cc](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/eba9444b-40ef-41e2-998b-a56ed016a848)
 
 ---
 
-© 2023 PhiloCoffee Club
+**© 2023 PhiloCoffee Club / 哲咖**
