@@ -35,7 +35,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
 
 ### tech / 技术部
-- [如何使用GitHub搭建并托管社团网站](tech/how_to_build_web.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
+- [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 
 ## Our Activities / 我们的活动
 
@@ -60,7 +60,7 @@ We are honored to announce that Professor SHAO KAI TSENG, a scholar with profoun
 Interested in coffee, philosophy, or both? Join us and contribute to an energetic and inclusive community!
 我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
 
-![d9d4c0b2e392b8f910d0baeef5ba68f](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/f550ea8a-a0f8-46e7-a271-df538c1f2381)
+<img src="./assets/72364066/f550ea8a-a0f8-46e7-a271-df538c1f2381" alt="image-20230807002852858" style="zoom:33%;" />
 
 The brewing process of hand-poured coffee has many similarities with tea preparation, offering us a unique perspective to integrate Chinese tea culture with Western coffee culture, showcasing the blend of Eastern and Western philosophies.
 
