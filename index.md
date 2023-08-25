@@ -43,22 +43,35 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 
 - **Philosophy Salons**: Engage in deep discussions on various philosophical topics.
 - **Coffee Making and Tastings**: Learn about different coffee varieties and brewing techniques.
+- **Reading & Movie Seminar**: Through the lens of cultural philosophy, appreciate contemporary art and popular movies together, seeking deeper understandings and connections.
 - **Collaborations**: Partner with other coffee shops and clubs to foster cultural exchange and shared learning.
 
 活动形式包括但不限于：
 - 哲学咖啡沙龙：这是我们的主打活动，我们会在此探讨各种哲学问题，并品尝与讨论主题相关的咖啡。例如，我们可能会探讨萨特的存在主义，同时品尝浓郁、苦涩的意式咖啡。
 - 咖啡制作和品鉴：我们会邀请咖啡师来教大家如何制作各种咖啡，并进行咖啡品鉴。
+- 社团读书会与观影会： 从文化哲学的角度，一同赏析当代艺术与流行电影。
 - 与校园内的多家咖啡厅合作：我们希望与校内的咖啡厅合作，一起开展各种活动，推广咖啡文化。
+
+
 
 ## Our Mentor / 我们的导师
 We are honored to announce that Professor SHAO KAI TSENG, a scholar with profound expertise in the field of philosophy, has agreed to become the mentor of our club.
 
 我们很荣幸的宣布，曾绍恺教授, 一位在哲学领域有深厚造诣的学者，已经答应成为我们社团的指导老师。
 
-## Join Us
+## Join Us / 加入我们
 
 Interested in coffee, philosophy, or both? Join us and contribute to an energetic and inclusive community!
 我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
+
+### 填写问卷即可加入：
+https://www.wjx.top/vm/mjNY6AP.aspx
+
+### 加入我们，你将能:
+1. 亲自尝试半自动意式咖啡机， 从浓缩到拉花，制作专属于你的一杯拿铁。
+2. Through the lens of cultural philosophy, appreciate art and movies together
+3. 一同探店精品咖啡，参加杯测会，与专业咖啡师交流技术
+4. Extend vision from Phil101 & Phil206, touring with Prof. Tseng again
 
 <img src="./assets/72364066/f550ea8a-a0f8-46e7-a271-df538c1f2381" alt="image-20230807002852858" style="zoom:33%;" />
 
@@ -71,12 +84,14 @@ We maintain close collaboration with the Zhejiang University Student Coffee Club
 我们与浙大紫金港校区的浙江大学学生咖啡社（ZJU Coffee Club）和UIUC大学的Philosophy Club（哲学社）保持紧密合作，一起探讨咖啡文化的传递，互相学习，共同进步。我们期待每一个加入PhiloCoffee的成员，能共同创造一个充满活力，包容并充满智慧的社团。
 
 
-如果你想加入我们，或者有任何问题，欢迎通过[电子邮件](philocoffeeclub@gmail.com)或通过GitHub issue联系我们。
+如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[philocoffeeclub@gmail.com](philocoffeeclub@gmail.com)或通过GitHub issue联系我们。
 [Contact Us](philocoffee@gmail.com)
 
 
 ![244d1bc375acecf293b88f223aff5cc](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/eba9444b-40ef-41e2-998b-a56ed016a848)
 
 ---
-
+“跟随古今哲人，洞悉世界之谜，共享智慧之光。”
+"Share moments, taste life and explore wisdom”
+“沉浸于咖啡的艺术，体验手冲之韵，共赏风味之美。”
 **© 2023 PhiloCoffee Club / 哲咖**
