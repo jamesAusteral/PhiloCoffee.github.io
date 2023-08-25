@@ -1,5 +1,5 @@
 # PhiloCoffee / 哲咖 
-![Club_icon](https://github.com/PhiloCoffee/PhiloCoffee.github.io/assets/72364066/b6eaa129-51ce-4124-9586-adabb158daf9)
+![Poster](./poster_v3.png)
 
 Welcome to PhiloCoffee, where we explore the intersection of coffee and philosophy!
 
