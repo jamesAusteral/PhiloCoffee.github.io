@@ -75,6 +75,7 @@ We are honored to announce that Professor SHAO KAI TSENG, a scholar with profoun
 ## Join Us / 加入我们
 
 Interested in coffee, philosophy, or both? Join us and contribute to an energetic and inclusive community!
+
 我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
 
 ### 填写问卷即可加入：
@@ -97,7 +98,7 @@ We maintain close collaboration with the Zhejiang University Student Coffee Club
 我们与浙大紫金港校区的浙江大学学生咖啡社（ZJU Coffee Club）和UIUC大学的Philosophy Club（哲学社）保持紧密合作，一起探讨咖啡文化的传递，互相学习，共同进步。我们期待每一个加入PhiloCoffee的成员，能共同创造一个充满活力，包容并充满智慧的社团。
 
 
-如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[philocoffeeclub@gmail.com](philocoffeeclub@gmail.com)或通过![GitHub issue](https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues)联系我们。
+如果你想加入我们，或者有任何问题，欢迎通过电子邮件：[philocoffeeclub@gmail.com](philocoffeeclub@gmail.com)或通过[GitHub issue](https://github.com/PhiloCoffee/PhiloCoffee.github.io/issues)联系我们。
 
 [Contact Us: philocoffeeclub@gmail.com](philocoffee@gmail.com) 
 
