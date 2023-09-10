@@ -86,7 +86,7 @@ https://www.wjx.top/vm/mjNY6AP.aspx
 3. 一同探店精品咖啡，参加杯测会，与专业咖啡师交流技术
 4. Extend vision from Phil101 & Phil206, touring with Prof. Tseng again
 
-<img src="./assets/72364066/f550ea8a-a0f8-46e7-a271-df538c1f2381" alt="image-20230807002852858" style="zoom:33%;" />
+![咖啡几何学](https://github.com/PhiloCoffee/Tech_AI/blob/main/Midjourney/everloom2023_poster_including_PhiloCoffee_Geometric_Layout__tim_587a8e56-9cac-4067-b486-ff3af86859cb.png?raw=true)
 
 The brewing process of hand-poured coffee has many similarities with tea preparation, offering us a unique perspective to integrate Chinese tea culture with Western coffee culture, showcasing the blend of Eastern and Western philosophies.
 
