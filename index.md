@@ -38,11 +38,13 @@ https://github.com/PhiloCoffee/Philo_Chat/issues/5
 投稿要求请见readme.md：
 
 https://github.com/PhiloCoffee/Philo_Chat
-## Our Articles / 我们的文章
 
+## Our Articles / 我们的文章
+- [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：
 
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
+-[CoffeeShop Tour](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
