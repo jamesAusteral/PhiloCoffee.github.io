@@ -32,24 +32,22 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 咖啡方向的技术书刊也鼓励分享，比方《咖啡年刊2022》，《世界咖啡地图》
 
 > 关于哲学和咖啡的入门可以参考：《咖啡与哲学——对话体哲学导论》
-这里是我写的简单书评，别的同学有兴趣也可以在issue里更新自己读的数目
-https://github.com/PhiloCoffee/Philo_Chat/issues/5
+这里是我写的[简单书评](https://github.com/PhiloCoffee/Philo_Chat/issues/5)，别的同学有兴趣也可以在issue里更新自己读的数目
 
-投稿要求请见readme.md：
 
-https://github.com/PhiloCoffee/Philo_Chat
+投稿要求请见[readme.md](https://github.com/PhiloCoffee/Philo_Chat)
+
 
 ## Our Articles / 我们的文章
-- [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：
 
 ### phiosophy / 哲学部
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
-  
-- [CoffeeShop Tour](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 
 ### coffee /咖啡部
 - [咖啡的历史起源](coffee/0807_咖啡的历史起源.md)：一篇深入探讨咖啡起源和演变历程的文章，完美融合了历史和文化分析。
-
+#### coffeeshop tour / 探店纪实
+- [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
+- [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 
