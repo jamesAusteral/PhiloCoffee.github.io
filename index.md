@@ -44,7 +44,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [爱咖啡的哲学家](philosophy/0807_爱咖啡的哲学家.md)：探索哲学家对咖啡的热爱以及其背后的深刻哲学涵义。
 ### Movie Night / 电影夜
 经Prof. Robert Holmes 教授指导的电影夜活动，与Poita Art Club 合作，将作为本社的月度性常驻活动。
-- [Suzeme](1006_Suzume): Poita Club的观影活动，一同欣赏顶级二次元
+- [Suzeme](1006_Suzume): Poita Club的观影活动，一同欣赏顶级音画效果
 - [Tenet信条](1022_Tenet_Review.md): 冷萃咖啡，卷积和诺兰的科幻狂想作品。
 
 ### coffee /咖啡部
@@ -53,6 +53,7 @@ We believe that from the beverage choices of philosophical masters like Kant, Vo
 - [T Cafe&Bar](philosophy/1005_CoffeeShopTour.md):A Day of Insightful Chat and Delightful Brews!
 - [Aristotle-武汉](coffee/1020_Aristotle.md): 武汉的一家古希腊哲学主题咖啡厅~
 - [2023杭州天目里咖啡节](coffee/1104_2023杭州天目里咖啡节.md): TODO 天目里探店活动！
+- [ALL-IN 横头街店-海宁](coffee/1117_ALLIN_HENGTOU.md): 古香古色，海宁当地豆子最多的店！
 ### tech / 技术部
 - [如何使用GitHub搭建并托管社团网站](tech/0807_如何搭建自己的社团网站.md)：一篇详细指导，让你了解如何使用GitHub Pages轻松搭建自己的社团网站。
 - [如何使用GPT-4 based Dalle-3 一行生成社团海报](tech/1029_DALLE3_performance.md): TODO， 一个展示SOTA 文生图技术的展示部分。
