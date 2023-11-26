@@ -10,7 +10,7 @@
 
 恰逢一周的课业和考试结束，周五的傍晚，我们来到ALL IN CAFÉ。这是一个僻静的地方，依傍着无名之河，找到这里就花了一点功夫。木墙黑瓦，木桌竹椅，石板和碎石相间的地面，装修颇有江南园林的意蕴，意外的是还有一个中庭，就连latte的杯子都是青瓷茶碗，盛Basque的都是竹制蒸笼。咖啡文化和中国古典文化的碰撞给了我小小的惊喜。这是一家小有名气的咖啡店，海宁首届咖啡节中就参展过，在吧台与咖啡师的聊天之中了解到，主理人过几天还得外出打比赛。但是不管怎么样，品鉴咖啡还是我们今天的主要任务。
 
-> 路边看到的 真-现磨咖啡，反映当今咖啡下沉市场
+> 寻找店铺时，路边看到的 真-现磨咖啡，反映当今咖啡市场多么下沉
 
 <img src="./1117_ALLIN_HENGTOU.assets/微信图片_20231119043144.jpg" alt="微信图片_20231119043144" style="zoom:33%;" />
 
@@ -109,7 +109,11 @@
 
 ## 总结：
 
-
+> 第一次参加哲咖社的活动，这次我们来到了位于横头街的ALL IN CAFE。不同于传统咖啡店，ALL IN CAFE 大胆地尝试将中式风格与咖啡文化相点缀，以庭院，流水，假山石等造景给人你以耳目一新的体验。店中的氛围甚佳，我们品尝了四种不同风味的咖啡豆，各中差异给我这个咖啡小白以全新的体验（品鉴力有待提升）。值得一提的是本次印尼的同学还向我们分享了家乡的咖啡文化，由此也可一瞥地域气候等对咖啡生产与品鉴习惯的影响。探店之旅末，店长和学长还向我们介绍浩浩汤汤的咖啡革新浪潮，以此为基点，也许我也将成为见证与亲历者。 --- 万煜翔
+>
+> This is my first Coffee shop tour at PhiloCoffee Club and it’s amazing. I’m stunned by the club members’ passion for coffee, as well as their wisdom. --- 徐纬立
+>
+> This is my second time joining PhiloCoffee’s Coffee tour and I enjoyed the ambiance of All in Cafe. The coffee shop’s unique interior and diverse blends were memorable, and I was impressed by how knowledgeable my fellow club members were on coffee-making and its culture. --- Theresa 魯世真
 
 
 
